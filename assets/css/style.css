@@ -1012,7 +1012,7 @@
             }
             .header-defenition h3 {
                 margin-top: 0px;
-                margin-left: 80%;
+                margin-left: 70%;
             }
             .upper {
                 margin-left: 110px;
@@ -1064,124 +1064,10 @@
                 margin-top: 370px;
             }
             .volcano {
-                margin-top: 40px;
+                margin-top: 0px;
                 width: 40px;
                 height: 60px;
-            }
-            .eight img {
-                width: 32.06px;
-                height: 31.06px;
-            }
-            .eleven img {
-                margin-top: -100px;
-                width: 11px;
-                height: 20px;
-            }
-            .twelve img {
-                margin-top: -290px;
-                width: 64px;
-                height: 26px;
-            }
-            .therteen img {
-                margin-top: -115px;
-                width: 45px;
-                height: 12px;
-            }
-            .fourteen img {
-                width: 18px;
-                height: 26px;
-            }
-            .fifteen img {
-                margin-top: -150px;
-                width: 12px;
-                height: 19px;
-            }
-            .sixteen img {
-                margin-left: 59%;
-                width: 2px;
-                height: 15px;
-            }
-            .outer {
-                width: 27px;
-                height: 43px;
-                margin-top: 0px;
-            }
-            .eighteen {
-                margin-top: -40px;
-                margin-left: -6px;
-            }
-            .eighteen img {
-                width: 14px;
-                height: 14px;
-            }
-            .nineteen img {
-                width: 57px;
-                height: 15px;
-                margin-left: 190px;
-                margin-top: -50px;
-            }
-            .twenty img {
-                margin-top: -80px;
-                width: 36px;
-                height: 24px;
-            }
-            .twentyone img {
-                margin-top: -70px;
-                width: 65.52px;
-                height: 53.79px;
-            }
-            .twentytwo img {
-                margin-top: 80px;
-                width: 16px;
-                height: 17px;
-            }
-            .twentythree {
-                margin-top: -80px;
-            }
-            .twentythree img {
-                width: 46px;
-                height: 45px;
-            }
-            .twentyfive img {
-                width: 103.43px;
-                height: 103.43px;
-                margin-top: -40px;
-            }
-            .twentysix {
-                margin-top: -80px;
-            }
-            .twentysix img {
-                margin-left: 25px;
-                width: 50.62px;
-                height: 50.62px;
-            }
-            .twentyseven img {
-                width: 49px;
-                height: 23px;
-            }
-            .twentyeight img {
-                margin-top: 40px;
-                width: 3px;
-                height: 49px;
-            }
-            .twentynine img {
-                width: 34px;
-                height: 14px;
-                margin-top: 50px;
-            }
-            .thertyone img {
-                width: 108px;
-                height: 52px;
-            }
-            .thertytwo img {
-                margin-top: -150px;
-                width: 71px;
-                height: 91px;
-            }
-            .thertythree img {
-                width: 94.29px;
-                height: 94.29px;
-                margin-top: 50px;
+                margin-bottom: 0;
             }
             .volcano img {
                 width: 17px;
@@ -1198,5 +1084,131 @@
             .volcano-upper-center img {
                 width: 4px;
                 height: 0px;
+            }
+            .eight img {
+                width: 32.06px;
+                height: 31.06px;
+            }
+            .eleven img {
+                margin-top: -200px;
+                width: 11px;
+                height: 20px;
+            }
+            .twelve img {
+                margin-top: 0px;
+                margin-left: 320px;
+                width: 64px;
+                height: 26px;
+            }
+            .therteen img {
+                margin-top: -175px;
+                width: 45px;
+                height: 12px;
+            }
+            .fourteen img {
+                width: 18px;
+                height: 26px;
+                margin-left: 370px;
+            }
+            .fifteen img {
+                margin-top: -0px;
+                width: 12px;
+                height: 19px;
+            }
+            .sixteen img {
+                margin-left: 59%;
+                width: 2px;
+                height: 15px;
+            }
+            .outer {
+                width: 27px;
+                height: 43px;
+                margin-top: 80px;
+            }
+            .eighteen {
+                margin-top: -40px;
+                margin-left: -6px;
+            }
+            .eighteen img {
+                width: 14px;
+                height: 14px;
+            }
+            .nineteen img {
+                width: 57px;
+                height: 15px;
+                margin-left: 100px;
+            }
+            .twenty img {
+                margin-top: -80px;
+                width: 36px;
+                height: 24px;
+            }
+            .twentyone img {
+                margin-top: 0px;
+                width: 65.52px;
+                height: 53.79px;
+            }
+            .twentytwo {
+                margin-top: 0;
+            }
+            .twentytwo img {
+                margin-top: 0px;
+                margin-left: 30px;
+                width: 16px;
+                height: 17px;
+            }
+            .twentythree img {
+                width: 46px;
+                height: 45px;
+            }
+            .twentyfive img {
+                width: 103.43px;
+                height: 103.43px;
+                margin-top: 20px;
+                margin-left: 60px;
+            }
+            .twentysix {
+                margin-top: -80px;
+                margin-left: 60px;
+            }
+            .twentysix img {
+                margin-left: 25px;
+                width: 50.62px;
+                height: 50.62px;
+            }
+            .twentyseven img {
+                width: 49px;
+                height: 23px;
+                margin-left: 330px;
+                float: none;
+            }
+            .twentyeight img {
+                margin-top: -30px;
+                width: 3px;
+                height: 49px;
+            }
+            .twentynine {
+                margin-top: 0;
+            }
+            .twentynine img {
+                width: 34px;
+                height: 14px;
+                margin-top: 0px;
+            }
+            .thertyone img {
+                width: 108px;
+                height: 52px;
+                margin-top: 0px;
+            }
+            .thertytwo img {
+                margin-top: -150px;
+                width: 71px;
+                height: 91px;
+            }
+            .thertythree img {
+                width: 94.29px;
+                height: 94.29px;
+                margin-top: 20px;
+                margin-left: 300px;
             }
         }
