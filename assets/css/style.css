@@ -5,7 +5,6 @@
         
         body {
             background-image: url(https://cdn.discordapp.com/attachments/576735053283983361/790624442622935100/MacBook_Pro_-_16.png);
-            background-repeat: no-repeat;
             background-position-x: center;
             box-sizing: border-box;
         }
@@ -85,12 +84,12 @@
         
         .one img {
             margin-left: 32%;
-            margin-top: 105px;
+            margin-top: -10px;
             background: none;
         }
         
         .two {
-            margin-top: -80px;
+            margin-top: 80px;
             background: none;
         }
         
@@ -103,7 +102,7 @@
         }
         
         .three img {
-            margin-top: 90px;
+            margin-top: 50px;
             margin-left: 63%;
             background: none;
         }
@@ -116,13 +115,13 @@
         .four img {
             position: -ms-page;
             margin-left: 90%;
-            margin-top: -400px;
+            margin-top: -200px;
             z-index: 5;
             background: none;
         }
         
         .five {
-            margin-top: -3.9px;
+            margin-top: -60px;
             background: none;
         }
         
@@ -136,14 +135,14 @@
         
         .six img {
             margin-left: 90%;
-            margin-top: -130px;
+            margin-top: -30px;
             background: none;
         }
         
         .seven img {
             position: -ms-page;
             z-index: 5;
-            margin-top: 70px;
+            margin-top: 100px;
             margin-left: 35%;
             background: none;
         }
@@ -390,7 +389,7 @@
         }
         
         .lines {
-            margin-top: -500px;
+            margin-top: -350px;
             margin-left: 6%;
             background: none;
         }
@@ -1023,26 +1022,33 @@
                 height: 40px;
             }
             .one img {
-                margin-top: 75px;
+                margin-top: 0px;
                 width: 32px;
                 height: 20px;
+            }
+            .one {
+                margin-top: -20px;
             }
             .two img {
                 width: 16px;
                 height: 45px;
+                margin-top: 80px;
             }
             .three img {
                 width: 17px;
                 height: 17px;
+                margin-top: 0;
             }
             .four img {
                 width: 46px;
                 height: 73px;
                 margin-left: 120%;
+                margin-top: -20px;
             }
             .five img {
                 width: 40.87px;
                 height: 40.87px;
+                margin-top: -10px;
             }
             .six img {
                 width: 10.58px;
@@ -1051,17 +1057,18 @@
             .seven img {
                 width: 36px;
                 height: 9px;
+                margin-top: 0px;
             }
             .sun img {
                 width: 60px;
                 height: 60px;
-                margin-top: 0;
+                margin-top: -60px;
                 margin-left: 110px;
             }
             .lines img {
                 width: 66px;
                 height: 66px;
-                margin-top: 370px;
+                margin-top: 430px;
             }
             .volcano {
                 margin-top: 0px;
@@ -1208,7 +1215,7 @@
             .thertythree img {
                 width: 94.29px;
                 height: 94.29px;
-                margin-top: 20px;
+                margin-top: 0px;
                 margin-left: 300px;
             }
         }
