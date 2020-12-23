@@ -1032,7 +1032,7 @@
             .two img {
                 width: 16px;
                 height: 45px;
-                margin-top: 80px;
+                margin-top: -45px;
             }
             .three img {
                 width: 17px;
@@ -1043,7 +1043,7 @@
                 width: 46px;
                 height: 73px;
                 margin-left: 125%;
-                margin-top: -20px;
+                margin-top: 91px;
             }
             .five img {
                 width: 40.87px;
