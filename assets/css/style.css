@@ -1039,6 +1039,9 @@
                 height: 17px;
                 margin-top: 0;
             }
+            .four {
+                margin-top: -50px;
+            }
             .four img {
                 width: 46px;
                 height: 73px;
