@@ -1,0 +1,1989 @@
+        * {
+            box-sizing: border-box;
+            margin-bottom: 0;
+        }
+
+        body {
+          background-position-x: auto;
+          background-image: url(https://cdn.discordapp.com/attachments/576735053283983361/790624442622935100/MacBook_Pro_-_16.png);
+          background-size: 100%;
+          background-position-x: center;
+          box-sizing: border-box;
+        }
+
+        h1,
+        h3 {
+            z-index: 1;
+            font-family: 'Montserrat', sans-serif;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 300px;
+            line-height: 158px;
+            color: none;
+            text-shadow: -0 -1px 1px #FFFFFF;
+            background: none;
+        }
+
+        h3 {
+            position: relative;
+            font-family: 'Montserrat', sans-serif;
+            font-style: normal;
+            font-weight: 900;
+            font-size: 100px;
+            line-height: 100px;
+            z-index: 1;
+            background: none;
+            width: 450px;
+        }
+
+        img {
+            background: none;
+        }
+
+        header {
+            background: none;
+        }
+
+        .header-text {
+            margin-top: -20px;
+            background: none;
+        }
+
+        .header-logo h1 {
+            margin-top: 5%;
+            margin-left: 5%;
+            display: inline-block !important;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: #000;
+            color: #000;
+            text-transform: uppercase;
+            text-shadow: -0 -1px 1px #FFFFFF, 0 -1px 1px #FFFFFF, -0 1px 1px #FFFFFF, 0 1px 1px #FFFFFF, -1px -0 1px #FFFFFF, 1px -0 1px #FFFFFF, -1px 0 1px #FFFFFF, 1px 0 1px #FFFFFF, -1px -1px 1px #FFFFFF, 1px -1px 1px #FFFFFF, -1px 1px 1px #FFFFFF, 1px 1px 1px #FFFFFF, -1px -1px 1px #FFFFFF, 1px -1px 1px #FFFFFF, -1px 1px 1px #FFFFFF, 1px 1px 1px #FFFFFF;
+            background: none;
+        }
+
+        .header-defenition h3 {
+            margin-top: -75px;
+            margin-left: 70%;
+            background: none;
+        }
+
+        .main-content {
+            margin-top: 0px;
+            background: none;
+        }
+
+        .upper {
+            margin-left: 265px;
+            margin-top: -90px;
+            background: none;
+        }
+
+        .upper img {
+            position: -ms-page;
+            z-index: 5;
+            background: none;
+        }
+
+        .one img {
+            margin-left: 32%;
+            margin-top: -10px;
+            background: none;
+        }
+
+        .two {
+            margin-top: 80px;
+            background: none;
+        }
+
+        .two img {
+            position: relative;
+            z-index: 1;
+            margin-left: 55%;
+            margin-top: -350px;
+            background: none;
+        }
+
+        .three img {
+            margin-top: 50px;
+            margin-left: 3%;
+            background: none;
+        }
+
+        .four {
+            margin-top: -239px;
+            background: none;
+        }
+
+        .four img {
+            position: -ms-page;
+            margin-left: 84%;
+            margin-top: -202px;
+            z-index: 5;
+            background: none;
+        }
+
+        .five {
+            margin-top: 40px;
+            background: none;
+        }
+
+        .five img {
+            position: -ms-page;
+            z-index: 5;
+            margin-left: 45%;
+            margin-top: -220px;
+            background: none;
+        }
+
+        .six img {
+            margin-left: 90%;
+            margin-top: -30px;
+            background: none;
+        }
+
+        .seven img {
+            position: -ms-page;
+            z-index: 5;
+            margin-top: 100px;
+            margin-left: 35%;
+            background: none;
+        }
+
+        .eight {
+            position: relative;
+            z-index: 1;
+            margin-left: 35%;
+            margin-top: -5px;
+            width: 140.07px;
+            background: none;
+        }
+
+        .volcano {
+            margin-left: 52%;
+            margin-top: -10px;
+            margin-bottom: 18px;
+            background: none;
+        }
+
+        .volcano img {
+            background: none;
+        }
+
+        .volcano-upper-right {
+            margin-left: 50px;
+            margin-top: -135px;
+            background: none;
+        }
+
+        .volcano-upper-center {
+            margin-left: 44px;
+            margin-top: -30px;
+            background: none;
+        }
+
+        .volcano-upper-center img {
+            width: 5px;
+            height: 25px;
+            background: none;
+        }
+
+        .volcano-upper-left {
+            margin-left: 20px;
+            margin-top: -20px;
+            background: none;
+        }
+
+        .eleven img {
+            margin-top: 50px;
+            margin-left: 52%;
+            background: none;
+        }
+
+        .twelve {
+            margin-top: -30px;
+            background: none;
+        }
+
+        .twelve img {
+            margin-top: -190px;
+            margin-left: 75%;
+            background: none;
+        }
+
+        .therteen img {
+            margin-top: -15px;
+            margin-left: 15%;
+            background: none;
+        }
+
+        .fourteen {
+            margin-top: -100px;
+            background: none;
+        }
+
+        .fourteen img {
+            margin-left: 94%;
+            background: none;
+        }
+
+        .fifteen img {
+            margin-left: 65%;
+            margin-top: -50px;
+            background: none;
+        }
+
+        .sixteen img {
+            margin-left: 59%;
+            background: none;
+        }
+
+        .GPS {
+            margin-left: 38%;
+            margin-top: -10px;
+            background: none;
+        }
+
+        .GPS img {
+            background: none;
+        }
+
+        .outer {
+            position: -ms-page;
+            z-index: 5;
+            margin-top: 30px;
+            background: none;
+        }
+
+        .outer img {
+            background: none;
+        }
+
+        .eighteen {
+            margin-top: -70px;
+            background: none;
+        }
+
+        .eighteen img {
+            background: none;
+        }
+
+        .inner {
+            background: none;
+            margin-left: 12px;
+            margin-top: -70px;
+            background: none;
+        }
+
+        .inner img {
+            background: none;
+        }
+
+        .nineteen img {
+            margin-top: 50px;
+            margin-left: 24%;
+            background: none;
+        }
+
+        .twenty img {
+            margin-top: -80px;
+            background: none;
+        }
+
+        .twentyone img {
+            background: none;
+            margin-top: -70px;
+            background: none;
+        }
+
+        .twentytwo {
+            margin-top: -150px;
+            background: none;
+        }
+
+        .twentytwo img {
+            margin-left: 35%;
+            margin-top: -50px;
+            background: none;
+        }
+
+        .twentythree {
+            margin-top: -280px;
+            background: none;
+        }
+
+        .twentythree img {
+            background: none;
+            margin-left: 58%;
+            background: none;
+        }
+
+        .mega-star img {
+            background: none;
+            background: none;
+        }
+
+        .mega-star {
+            margin-left: 67%;
+            margin-top: -100px;
+            background: none;
+        }
+
+        .twentyfive img {
+            position: -ms-page;
+            z-index: 5;
+            background: none;
+        }
+
+        .twentysix {
+            margin-top: -230px;
+            background: none;
+        }
+
+        .twentysix img {
+            position: relative;
+            z-index: 1;
+            margin-left: 95px;
+            background: none;
+        }
+
+        .twentyseven img {
+            float: right;
+            background: none;
+            margin-left: 80%;
+        }
+
+        .twentyeight img {
+            margin-left: 67%;
+            margin-top: 20px;
+            background: none;
+        }
+
+        .twentynine {
+            margin-top: -300px;
+            background: none;
+        }
+
+        .thertyone img {
+            position: -ms-page;
+            z-index: 5;
+            margin-left: 14%;
+            background: none;
+        }
+
+        .thertytwo img {
+            position: relative;
+            z-index: 1;
+            background: none;
+            margin-left: 30%;
+            margin-top: -150px;
+            background: none;
+        }
+
+        .thertythree {
+            margin-top: -70px;
+            background: none;
+        }
+
+        .thertythree img {
+            background: none;
+            margin-left: 67%;
+            margin-top: -500px;
+            background: none;
+        }
+
+        .lines {
+            margin-top: -350px;
+            margin-left: 6%;
+            background: none;
+        }
+
+        .sun {
+            margin-left: 58%;
+            margin-bottom: -30%;
+            background: none;
+        }
+        @media(max-width:1440px) {
+            h1,
+            h3 {
+                font-size: 200px;
+                line-height: 134px;
+                text-shadow: 0.7px solid #FFFFFF;
+            }
+            h3 {
+                font-size: 22px;
+                line-height: 27px;
+                text-shadow: 0.5px solid #FFFFFF;
+                width: 380px;
+            }
+            .upper {
+                margin-left: 230px;
+                margin-top: -70px;
+            }
+            .upper img {
+                width: 112px;
+                height: 106px;
+            }
+            .one img {
+                width: 127px;
+                height: 83px;
+            }
+            .two img {
+                width: 60px;
+                height: 178px;
+            }
+            .three img {
+                width: 67px;
+                height: 63px;
+            }
+            .four img {
+                width: 182px;
+                height: 290px;
+            }
+            .five img {
+                width: 109.25px;
+                height: 109.25px;
+            }
+            .six img {
+                width: 42.06px;
+                height: 161.64px;
+            }
+            .seven img {
+                width: 144px;
+                height: 36px;
+            }
+            .sun img {
+                width: 200px;
+                height: 200px;
+                margin-left: 20px;
+            }
+            .lines img {
+                width: 176px;
+                height: 176px;
+            }
+            .volcano {
+                margin-top: 8%;
+            }
+            /*.volcano img {
+            width: 50px;
+            height: 56px;
+            }
+            .volcano-upper-left img {
+                width: 16px;
+                height: 0.20px;
+            }
+            .volcano-upper-right {
+                margin-left: 50px;
+                margin-top: -135px;
+            }
+            .volcano-upper-right img {
+                width: 16px;
+                height: 0.20px;
+            }
+            .volcano-upper-center {
+                margin-left: 44px;
+                margin-top: -30px;
+            }
+            .volcano-upper-center img {
+                width: 2px;
+                background: none;
+                width: 16px;
+                height: 0.20px;
+            }*/
+            .eleven img {
+                margin-top: 50px;
+                width: 42px;
+                height: 79px;
+            }
+            .twelve img {
+                margin-top: -190px;
+                width: 257px;
+                height: 99px;
+            }
+            .therteen img {
+                margin-top: -15px;
+                width: 179px;
+                height: 54px;
+            }
+            .fourteen img {
+                width: 66px;
+                height: 108px;
+            }
+            .fifteen img {
+                margin-top: -50px;
+                width: 60px;
+                height: 72px;
+            }
+            .sixteen img {
+                margin-left: 59%;
+                width: 12px;
+                height: 65px;
+            }
+            .outer img {
+                width: 45px;
+                height: 72px;
+            }
+            .eighteen {
+                margin-top: -70px;
+                background: none;
+            }
+            .eighteen img {
+                width: 31px;
+                height: 31px;
+            }
+            .nineteen img {
+                margin-top: 48px;
+                width: 226px;
+                height: 58px;
+            }
+            .twenty img {
+                margin-top: -80px;
+                width: 142px;
+                height: 89px;
+            }
+            .twentyone img {
+                margin-top: -70px;
+                width: 260.52px;
+                height: 213.84px;
+            }
+            .twentytwo img {
+                margin-top: -20px;
+                width: 58px;
+                height: 67px;
+            }
+            .twentythree {
+                margin-top: -180px;
+            }
+            .twentythree img {
+                width: 184px;
+                height: 178px;
+            }
+            .twentyfive img {
+                width: 174.21px;
+                height: 174.21px;
+            }
+            .twentysix {
+                margin-top: -135px;
+            }
+            .twentysix img {
+                margin-left: 45px;
+                width: 85.25px;
+                height: 85.25px;
+            }
+            .twentyeight img {
+                margin-top: 20px;
+                width: 13px;
+                height: 200px;
+            }
+            .thertyone img {
+                width: 425px;
+                height: 208px;
+            }
+            .thertytwo img {
+                margin-top: -150px;
+                width: 281px;
+                height: 363px;
+            }
+            .thertythree img {
+                width: 374.87px;
+                height: 374.87px;
+                margin-top: -500px;
+            }
+        }
+        @media(max-width:1366px) {
+            h1,
+            h3 {
+                font-size: 110px;
+                line-height: 134px;
+                text-shadow: 0.7px solid #FFFFFF;
+            }
+            h3 {
+                font-size: 22px;
+                line-height: 27px;
+                text-shadow: 0.5px solid #FFFFFF;
+                width: 380px;
+            }
+            .upper {
+                margin-left: 230px;
+                margin-top: -70px;
+            }
+            .upper img {
+                width: 112px;
+                height: 106px;
+            }
+            .one img {
+                width: 127px;
+                height: 83px;
+            }
+            .two img {
+                width: 60px;
+                height: 178px;
+            }
+            .three img {
+                width: 67px;
+                height: 63px;
+            }
+            .four img {
+                width: 182px;
+                height: 290px;
+            }
+            .five img {
+                width: 109.25px;
+                height: 109.25px;
+            }
+            .six img {
+                width: 42.06px;
+                height: 161.64px;
+            }
+            .seven img {
+                width: 144px;
+                height: 36px;
+            }
+            .sun img {
+                width: 200px;
+                height: 200px;
+                margin-left: 20px;
+            }
+            .lines img {
+                width: 176px;
+                height: 176px;
+            }
+            .volcano {
+                margin-top: 8%;
+            }
+            /*.volcano img {
+            width: 50px;
+            height: 56px;
+            }
+            .volcano-upper-left img {
+                width: 16px;
+                height: 0.20px;
+            }
+            .volcano-upper-right {
+                margin-left: 50px;
+                margin-top: -135px;
+            }
+            .volcano-upper-right img {
+                width: 16px;
+                height: 0.20px;
+            }
+            .volcano-upper-center {
+                margin-left: 44px;
+                margin-top: -30px;
+            }
+            .volcano-upper-center img {
+                width: 2px;
+                background: none;
+                width: 16px;
+                height: 0.20px;
+            }*/
+            .eleven img {
+                margin-top: 50px;
+                width: 42px;
+                height: 79px;
+            }
+            .twelve img {
+                margin-top: -190px;
+                width: 257px;
+                height: 99px;
+            }
+            .therteen img {
+                margin-top: -15px;
+                width: 179px;
+                height: 54px;
+            }
+            .fourteen img {
+                width: 66px;
+                height: 108px;
+            }
+            .fifteen img {
+                margin-top: -50px;
+                width: 60px;
+                height: 72px;
+            }
+            .sixteen img {
+                margin-left: 59%;
+                width: 12px;
+                height: 65px;
+            }
+            .outer img {
+                width: 45px;
+                height: 72px;
+            }
+            .eighteen {
+                margin-top: -70px;
+                background: none;
+            }
+            .eighteen img {
+                width: 31px;
+                height: 31px;
+            }
+            .nineteen img {
+                margin-top: 48px;
+                width: 226px;
+                height: 58px;
+            }
+            .twenty img {
+                margin-top: -80px;
+                width: 142px;
+                height: 89px;
+            }
+            .twentyone img {
+                margin-top: -70px;
+                width: 260.52px;
+                height: 213.84px;
+            }
+            .twentytwo img {
+                margin-top: -20px;
+                width: 58px;
+                height: 67px;
+            }
+            .twentythree {
+                margin-top: -180px;
+            }
+            .twentythree img {
+                width: 184px;
+                height: 178px;
+            }
+            .twentyfive img {
+                width: 174.21px;
+                height: 174.21px;
+            }
+            .twentysix {
+                margin-top: -135px;
+            }
+            .twentysix img {
+                margin-left: 45px;
+                width: 85.25px;
+                height: 85.25px;
+            }
+            .twentyeight img {
+                margin-top: 20px;
+                width: 13px;
+                height: 200px;
+            }
+            .thertyone img {
+                width: 425px;
+                height: 208px;
+            }
+            .thertytwo img {
+                margin-top: -150px;
+                width: 281px;
+                height: 363px;
+            }
+            .thertythree img {
+                width: 374.87px;
+                height: 374.87px;
+                margin-top: -500px;
+            }
+        }
+
+        @media(max-width:1280px) {
+            h1,
+            h3 {
+                font-size: 90px;
+                line-height: 134px;
+                text-shadow: 0.7px solid #FFFFFF;
+            }
+            h3 {
+                font-size: 22px;
+                line-height: 27px;
+                text-shadow: 0.5px solid #FFFFFF;
+                width: 380px;
+            }
+            .upper {
+                margin-left: 230px;
+                margin-top: -70px;
+            }
+            .upper img {
+                width: 112px;
+                height: 106px;
+            }
+            .one img {
+                width: 127px;
+                height: 83px;
+            }
+            .two img {
+                width: 60px;
+                height: 178px;
+            }
+            .three img {
+                width: 67px;
+                height: 63px;
+            }
+            .four img {
+                width: 182px;
+                height: 290px;
+            }
+            .five img {
+                width: 109.25px;
+                height: 109.25px;
+            }
+            .six img {
+                width: 42.06px;
+                height: 161.64px;
+            }
+            .seven img {
+                width: 144px;
+                height: 36px;
+            }
+            .sun img {
+                width: 200px;
+                height: 200px;
+                margin-left: 20px;
+            }
+            .lines img {
+                width: 176px;
+                height: 176px;
+            }
+            .volcano {
+                margin-top: 8%;
+            }
+            /*.volcano img {
+            width: 50px;
+            height: 56px;
+            }
+            .volcano-upper-left img {
+                width: 16px;
+                height: 0.20px;
+            }
+            .volcano-upper-right {
+                margin-left: 50px;
+                margin-top: -135px;
+            }
+            .volcano-upper-right img {
+                width: 16px;
+                height: 0.20px;
+            }
+            .volcano-upper-center {
+                margin-left: 44px;
+                margin-top: -30px;
+            }
+            .volcano-upper-center img {
+                width: 2px;
+                background: none;
+                width: 16px;
+                height: 0.20px;
+            }*/
+            .eleven img {
+                margin-top: 50px;
+                width: 42px;
+                height: 79px;
+            }
+            .twelve img {
+                margin-top: -190px;
+                width: 257px;
+                height: 99px;
+            }
+            .therteen img {
+                margin-top: -15px;
+                width: 179px;
+                height: 54px;
+            }
+            .fourteen img {
+                width: 66px;
+                height: 108px;
+            }
+            .fifteen img {
+                margin-top: -50px;
+                width: 60px;
+                height: 72px;
+            }
+            .sixteen img {
+                margin-left: 59%;
+                width: 12px;
+                height: 65px;
+            }
+            .outer img {
+                width: 45px;
+                height: 72px;
+            }
+            .eighteen {
+                margin-top: -70px;
+                background: none;
+            }
+            .eighteen img {
+                width: 31px;
+                height: 31px;
+            }
+            .nineteen img {
+                margin-top: 48px;
+                width: 226px;
+                height: 58px;
+            }
+            .twenty img {
+                margin-top: -80px;
+                width: 142px;
+                height: 89px;
+            }
+            .twentyone img {
+                margin-top: -70px;
+                width: 260.52px;
+                height: 213.84px;
+            }
+            .twentytwo img {
+                margin-top: -20px;
+                width: 58px;
+                height: 67px;
+            }
+            .twentythree {
+                margin-top: -180px;
+            }
+            .twentythree img {
+                width: 184px;
+                height: 178px;
+            }
+            .twentyfive img {
+                width: 174.21px;
+                height: 174.21px;
+            }
+            .twentysix {
+                margin-top: -135px;
+            }
+            .twentysix img {
+                margin-left: 45px;
+                width: 85.25px;
+                height: 85.25px;
+            }
+            .twentyeight img {
+                margin-top: 20px;
+                width: 13px;
+                height: 200px;
+            }
+            .thertyone img {
+                width: 425px;
+                height: 208px;
+            }
+            .thertytwo img {
+                margin-top: -150px;
+                width: 281px;
+                height: 363px;
+            }
+            .thertythree img {
+                width: 374.87px;
+                height: 374.87px;
+                margin-top: -500px;
+            }
+        }
+
+        @media(max-width:1024px) {
+            h1,
+            h3 {
+                font-size: 70px;
+                line-height: 110px;
+                width: 347px;
+            }
+            h3 {
+                font-size: 15px;
+                line-height: 18px;
+            }
+            .upper {
+                margin-left: 185px;
+                margin-top: -45px;
+            }
+            .upper img {
+                width: 92px;
+                height: 88px;
+            }
+            .one img {
+                width: 106px;
+                height: 69px;
+            }
+            .two img {
+                width: 50px;
+                height: 148px;
+            }
+            .three img {
+                width: 56px;
+                height: 52px;
+            }
+            .four img {
+                width: 151px;
+                height: 241px;
+            }
+            .five img {
+                width: 90.78px;
+                height: 90.78px;
+            }
+            .six img {
+                width: 34.95px;
+                height: 134.31px;
+            }
+            .seven img {
+                width: 120px;
+                height: 31px;
+            }
+            .sun img {
+                width: 170px;
+                height: 170px;
+                margin-left: 100px;
+                margin-top: 100px;
+            }
+            .lines img {
+                width: 136px;
+                height: 136px;
+            }
+            .volcano {
+                margin-top: -100px;
+            }
+            /*.volcano img {
+            width: 73px;
+            height: 79px;
+            }
+            .volcano-upper-left img {
+                width: 18.39px;
+                height: 0.26px;
+            }
+            .volcano-upper-right {
+                margin-left: 50px;
+                margin-top: -135px;
+            }
+            .volcano-upper-right img {
+                width: 18.39px;
+                height: 0.26px;
+            }
+            .volcano-upper-center {
+                margin-left: 44px;
+                margin-top: -30px;
+            }
+            .volcano-upper-center img {
+                width: 2px;
+                background: none;
+                width: 18.39px;
+                height: 0.26px;
+            }*/
+            .eleven img {
+                margin-top: 50px;
+                width: 36px;
+                height: 66px;
+            }
+            .twelve img {
+                margin-top: -190px;
+                width: 214px;
+                height: 82px;
+            }
+            .therteen img {
+                margin-top: -15px;
+                width: 149px;
+                height: 45px;
+            }
+            .fourteen img {
+                width: 55px;
+                height: 89px;
+            }
+            .fifteen img {
+                margin-top: -50px;
+                width: 50px;
+                height: 60px;
+            }
+            .sixteen img {
+                margin-left: 59%;
+                width: 9px;
+                height: 54px;
+            }
+            .outer {
+                width: 37px;
+                height: 60px;
+            }
+            .eighteen {
+                margin-top: -50px;
+                margin-left: -4px;
+                background: none;
+            }
+            .eighteen img {
+                width: 19px;
+                height: 19px;
+            }
+            .nineteen img {
+                margin-top: 48px;
+                width: 188px;
+                height: 48px;
+            }
+            .twenty img {
+                margin-top: -80px;
+                width: 118px;
+                height: 74px;
+            }
+            .twentyone img {
+                margin-top: -70px;
+                width: 216.47px;
+                height: 177.68px;
+            }
+            .twentytwo img {
+                margin-top: 50px;
+                width: 49px;
+                height: 55px;
+            }
+            .twentythree {
+                margin-top: -180px;
+            }
+            .twentythree img {
+                width: 153px;
+                height: 148px;
+            }
+            .twentyfive img {
+                width: 144.75px;
+                height: 144.75px;
+            }
+            .twentysix {
+                margin-top: -115px;
+            }
+            .twentysix img {
+                margin-left: 37px;
+                width: 70.84px;
+                height: 70.84px;
+            }
+            .twentyeight img {
+                margin-top: 20px;
+                width: 10px;
+                height: 166px;
+            }
+            .thertyone img {
+                width: 353px;
+                height: 173px;
+            }
+            .thertytwo img {
+                margin-top: -150px;
+                width: 233px;
+                height: 302px;
+            }
+            .thertythree img {
+                width: 311.48px;
+                height: 311.48px;
+                margin-top: -500px;
+            }
+        }
+
+        @media(max-width:768px) {
+            body {
+                background-position-x: -75vh;
+                background-image: url(https://cdn.discordapp.com/attachments/576735053283983361/790624442622935100/MacBook_Pro_-_16.png);
+                background-size: contain;
+            }
+            h1,
+            h3 {
+                font-size: 58px;
+                line-height: 71px;
+            }
+            h3 {
+                font-size: 10px;
+                line-height: 12px;
+                width: 248px;
+            }
+            .header-logo h1 {
+                margin-top: 10%;
+                margin-left: 10%;
+            }
+            .header-defenition h3 {
+                margin-top: 0px;
+                margin-left: 70%;
+            }
+            .upper {
+                margin-left: 150px;
+                margin-top: -90px;
+            }
+            .upper img {
+                width: 92px;
+                height: 88px;
+                margin-left: -10%;
+                margin-top: -7%;
+            }
+            .one img {
+                margin-top: 145px;
+                width: 75px;
+                height: 49px;
+            }
+            .two img {
+                width: 37px;
+                height: 107px;
+            }
+            .three img {
+                width: 40px;
+                height: 37px;
+            }
+            .four img {
+                width: 108px;
+                height: 173px;
+                margin-left: 95%;
+            }
+            .five img {
+                width: 64.87px;
+                height: 64.87px;
+            }
+            .six img {
+                width: 24.97px;
+                height: 95.97px;
+            }
+            .seven img {
+                width: 85px;
+                height: 22px;
+            }
+            .sun img {
+                width: 120px;
+                height: 120px;
+                margin-left: 110px;
+            }
+            .lines img {
+                width: 106px;
+                height: 106px;
+                margin-top: 140px;
+            }
+            .volcano {
+                margin-top: -50px;
+            }
+            .eight img {
+                width: 75.68px;
+                height: 73.32px;
+            }
+            /*.volcano img {
+            width: 73px;
+            height: 79px;
+            }
+
+            }*/
+            .eleven img {
+                margin-top: 30px;
+                width: 25px;
+                height: 46px;
+            }
+            .twelve img {
+                margin-top: -190px;
+                width: 152px;
+                height: 59px;
+            }
+            .therteen img {
+                margin-top: -15px;
+                width: 107px;
+                height: 33px;
+            }
+            .fourteen img {
+                width: 40px;
+                height: 64px;
+            }
+            .fifteen img {
+                margin-top: -50px;
+                width: 36px;
+                height: 42px;
+            }
+            .sixteen img {
+                margin-left: 59%;
+                width: 6px;
+                height: 39px;
+            }
+            .outer {
+                width: 27px;
+                height: 43px;
+                margin-top: 100px;
+            }
+            .eighteen {
+                margin-top: -40px;
+                margin-left: -6px;
+            }
+            .eighteen img {
+                width: 14px;
+                height: 14px;
+            }
+            .nineteen img {
+                width: 134px;
+                height: 34px;
+                margin-left: 190px;
+                margin-top: 30px;
+            }
+            .twenty img {
+                margin-top: -80px;
+                width: 84px;
+                height: 54px;
+            }
+            .twentyone img {
+                margin-top: -70px;
+                width: 154.68px;
+                height: 126.96px;
+            }
+            .twentytwo img {
+                margin-top: 80px;
+                width: 35px;
+                height: 39px;
+            }
+            .twentythree {
+                margin-top: -80px;
+            }
+            .twentythree img {
+                width: 110px;
+                height: 106px;
+            }
+            .twentyfive img {
+                width: 103.43px;
+                height: 103.43px;
+                margin-top: 40px;
+            }
+            .twentysix {
+                margin-top: -80px;
+            }
+            .twentysix img {
+                margin-left: 25px;
+                width: 50.62px;
+                height: 50.62px;
+            }
+            .twentyseven img {
+                width: 114px;
+                height: 55px;
+            }
+            .twentyeight img {
+                margin-top: 40px;
+                width: 6px;
+                height: 117px;
+            }
+            .twentynine img {
+                width: 83px;
+                height: 31px;
+                margin-top: 50px;
+            }
+            .thertyone img {
+                width: 252px;
+                height: 123px;
+            }
+            .thertytwo img {
+                margin-top: -150px;
+                width: 167px;
+                height: 215px;
+            }
+            .thertythree img {
+                width: 222.57px;
+                height: 222.57px;
+                margin-top: -500px;
+            }
+        }
+
+        @media(max-width:475px) {
+            body {
+                background-position-x: center;
+                background-image: url(https://cdn.discordapp.com/attachments/576735053283983361/790624442622935100/MacBook_Pro_-_16.png);
+                background-size: contain;
+            }
+            h1,
+            h3 {
+                font-size: 24px;
+                line-height: 29px;
+            }
+            h3 {
+                font-size: 9px;
+                line-height: 7px;
+            }
+            .header-logo h1 {
+                margin-top: 15%;
+                margin-left: 10%;
+                display: inline-block;
+            }
+            .header-defenition h3 {
+                margin-top: 0px;
+                margin-left: 70%;
+            }
+            .upper {
+                margin-left: 110px;
+                margin-top: -40px;
+            }
+            .upper img {
+                width: 40px;
+                height: 40px;
+            }
+            .one img {
+                margin-top: 0px;
+                width: 32px;
+                height: 20px;
+            }
+            .one {
+                margin-top: -20px;
+            }
+            .two {
+                margin-top: -10px;
+            }
+            .two img {
+                width: 16px;
+                height: 45px;
+                margin-top: -45px;
+            }
+            .three img {
+                width: 17px;
+                height: 17px;
+                margin-top: 0;
+            }
+            .four img {
+                width: 46px;
+                height: 73px;
+                margin-left: 125%;
+                margin-top: -81px;
+            }
+            .four {
+                margin-top: 20px;
+            }
+            .five img {
+                width: 30px;
+                height: 30px;
+                margin-top: -72px;
+                animation-name: fade;
+                animation-name: spin;
+                animation-name: container;
+            }
+
+
+
+            .five {
+                margin-top: -37px;
+            }
+            .six img {
+                width: 10.58px;
+                height: 40.66px;
+            }
+            .seven img {
+                width: 36px;
+                height: 9px;
+                margin-top: 0px;
+            }
+            .sun img {
+                width: 60px;
+                height: 60px;
+                margin-top: -60px;
+                margin-left: 110px;
+            }
+            .lines img {
+                width: 66px;
+                height: 66px;
+                margin-top: 263px;
+            }
+            .volcano {
+                margin-top: 0px;
+                width: 40px;
+                height: 60px;
+                margin-bottom: 0;
+            }
+            .volcano img {
+                width: 17px;
+                height: 20px;
+            }
+
+
+
+            }
+            .eleven img {
+                margin-top: -200px;
+                width: 11px;
+                height: 20px;
+            }
+            .twelve img {
+                margin-top: 0px;
+                margin-left: 320px;
+                width: 64px;
+                height: 26px;
+            }
+            .therteen img {
+                margin-top: -175px;
+                width: 45px;
+                height: 12px;
+            }
+            .fourteen img {
+                width: 18px;
+                height: 26px;
+                margin-left: 370px;
+            }
+            .fifteen img {
+                margin-top: -0px;
+                width: 12px;
+                height: 19px;
+            }
+            .sixteen img {
+                margin-left: 59%;
+                width: 2px;
+                height: 15px;
+            }
+            .outer {
+                width: 27px;
+                height: 43px;
+                margin-top: 80px;
+            }
+            .eighteen {
+                margin-top: -40px;
+                margin-left: -6px;
+            }
+            .eighteen img {
+                width: 14px;
+                height: 14px;
+            }
+            .nineteen img {
+                width: 57px;
+                height: 15px;
+                margin-left: 100px;
+            }
+            .twenty img {
+                margin-top: -80px;
+                width: 36px;
+                height: 24px;
+            }
+            .twentyone img {
+                margin-top: 0px;
+                width: 64px;
+                height: 48px;
+            }
+            .twentytwo {
+                margin-top: 0;
+            }
+            .twentytwo img {
+                margin-top: 0px;
+                margin-left: 30px;
+                width: 16px;
+                height: 17px;
+            }
+            .twentythree img {
+                width: 30px;
+                height: 30px;
+            }
+            .twentyfive img {
+                width: 103.43px;
+                height: 103.43px;
+                margin-top: 20px;
+                margin-left: 60px;
+            }
+            .twentysix {
+                margin-top: -80px;
+                margin-left: 60px;
+            }
+            .twentysix img {
+                margin-left: 25px;
+                width: 50.62px;
+                height: 50.62px;
+            }
+            .twentyseven img {
+                width: 49px;
+                height: 23px;
+                margin-left: 330px;
+                float: none;
+            }
+            .twentyeight img {
+                margin-top: -30px;
+                width: 3px;
+                height: 49px;
+            }
+            .twentynine {
+                margin-top: 0;
+            }
+            .twentynine img {
+                width: 34px;
+                height: 14px;
+                margin-top: 0px;
+            }
+            .thertyone img {
+                width: 100px;
+                height: 46px;
+                margin-top: 0px;
+            }
+            .thertytwo img {
+                margin-top: -150px;
+                width: 71px;
+                height: 91px;
+            }
+            .thertythree img {
+                width: 94.29px;
+                height: 94.29px;
+                margin-top: 0px;
+                margin-left: 300px;
+            }
+        }
+        @media(max-width:320px) {
+
+            body {
+            background-position-x: auto;
+            background-image: url(https://cdn.discordapp.com/attachments/576735053283983361/790624442622935100/MacBook_Pro_-_16.png);
+            background-size: 100%;
+            background-position-x: center;
+            box-sizing: border-box;
+            }
+            h1,
+            h3 {
+                font-size: 25px;
+                line-height: 10px;
+                margin-right: -90%;
+                margin-top: 40%;
+            }
+            h3 {
+                font-size: 10px;
+                line-height: 15px;
+                margin-right: 90%;
+
+            }
+            .header-logo h1 {
+                margin-top: 15%;
+                margin-left: 5%;
+                display: inline-block;
+            }
+            .header-defenition h3 {
+                margin-top: 0px;
+                margin-left: 70%;
+            }
+            .upper {
+                margin-left: 7%;
+                margin-top: -10;
+                width: 10%;
+                height: 10%;
+            }
+            .upper img {
+                width: 10%;
+                height: 10px;
+            }
+            .one img {
+                margin-top: 0%;
+                width: 12%;
+                height: 10%;
+            }
+            .one {
+                margin-top: 50%;
+                width: 10%;
+                height: 1%;
+            }
+            .two {
+                margin-top: -10%;
+            }
+            .two img {
+                width: 6px;
+                height: 5px;
+                margin-top: -45px;
+            }
+            .three img {
+                width: 7px;
+                height: 7px;
+                margin-top: 0;
+            }
+            .four img {
+                width: 26px;
+                height: 53px;
+                margin-left: 125%;
+                margin-top: -81px;
+            }
+            .four {
+                margin-top: 0px;
+            }
+            .five img {
+                width: 40px;
+                height: 40px;
+                margin-bottom: 20%;
+            }
+            .five {
+                margin-top: -37px;}
+
+
+            .six img {
+                width: 10.58px;
+                height: 40.66px;
+                margin-bottom:auto;
+                margin-right: auto;
+            }
+            .seven img {
+                width: 36px;
+                height: 9px;
+                margin-top: 0px;
+            }
+
+            }
+            .lines {
+                width: 66px;
+                height: 66px;
+                margin-top: -380;
+                margin-left: 6%;
+                animation-name: rotation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes rotation {
+    0% {
+        transform:rotate(0deg);
+    }
+    100% {
+        transform:rotate(360deg);
+    }
+
+
+            }
+            .lines img {
+                width: 66px;
+                height: 66px;
+                margin-top: 195px;
+                margin-left: 6%;
+                animation-name: rotation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}}
+@keyframes rotation {
+    0% {
+        transform:rotate(0deg);
+    }
+    100% {
+        transform:rotate(360deg);
+    }
+
+
+            }
+            .volcano {
+                margin-top: 0px;
+                width: 40px;
+                height: 60px;
+                margin-bottom: 100;}
+            .volcano img {
+                width: 17px;
+                height: 20px;
+                margin-left: auto;
+                margin-top: 290%;
+                animation: blink 2s infinite;
+   }
+   @keyframes blink {
+    from { opacity: 1; }
+    to { opacity: 0; }
+   }
+            .eight img {
+                width: 26px;
+                height: 25px;
+                animation-name: move 15s infinite linear;}
+                @keyframes move {
+  40% {
+    left: 50%;
+    bottom: 75%;
+    animation-timing-function: ease-in;
+    }
+  80% {
+    left: 90%;
+    bottom: -10em;
+    }
+
+            }
+            .eleven img {
+                margin-top: 7%;
+                margin-left: 59%;
+                width: 11px;
+                height: 20px;
+            }
+            .twelve img {
+                margin-top: 0px;
+                margin-left: 320px;
+                width: 64px;
+                height: 26px;
+            }
+            .therteen img {
+                margin-top: -17%;
+                width: 45px;
+                height: 12px;
+                animation: blink 2s infinite;
+   }
+   @keyframes blink {
+    from { opacity: 1; }
+    to { opacity: 0; }
+   }
+            }
+            .fourteen img {
+                width: 18px;
+                height: 26px;
+                margin-left: 370px;
+            }
+            .fifteen img {
+                margin-left: 30%;
+                margin-top: 5%;
+                width: 22px;
+                height: 21px;
+    opacity: 1;
+    transition: opacity 1s, visibility 1s;}
+    .flash:hover {
+  opacity: 1;
+  -webkit-animation: flash 1s;
+  animation: flash 1s;
+}
+
+@-webkit-keyframes flash {
+  0% {  opacity: .3;  }
+  100% { opacity: 1; }
+}
+@keyframes flash {
+  0% { opacity: .3; }
+  100% { opacity: 1;  }
+}
+}
+.
+.fifteen img.hidden {
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 1s, visibility 0s 1s;
+}
+            .sixteen img {
+                margin-left: 59%;
+                width: 2px;
+                height: 15px;
+            }
+            .outer {
+                width: 20px;
+                height: 30px;
+                margin-top: 80px;}
+
+
+            }
+            .eighteen {
+                margin-top: -40px;
+                margin-left: -6px;
+            }
+            .eighteen img {
+                width: 11px;
+                height: 11px;
+                margin-left: 6%;
+                margin-top: 5%;}
+
+
+            .nineteen img {
+                width: 57px;
+                height: 15px;
+                margin-left: 30%;
+                margin-top: 3%;
+            }
+            .twenty img {
+                margin-top: -80px;
+                width: 6px;
+                height: 4px;
+            }
+            .twentyone img {
+                margin-top: 0px;
+                width: 4px;
+                height: 8px;
+            }
+            .twentytwo {
+                margin-top: 0;
+            }
+            .twentytwo img {
+                margin-top: 0px;
+                margin-left: 30px;
+                width: 6px;
+                height: 7px;
+            }
+            .twentythree img {
+                width: 50px;
+                height: 50px;
+                margin-left: auto;
+                margin-top: auto;
+                animation-name: rotation;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes rotation {
+    0% {
+        transform:rotate(0deg);
+    }
+    100% {
+        transform:rotate(80deg);
+    }
+}
+
+
+            .twentysix {
+                margin-top: -80px;
+                margin-left: 90%;
+            }
+            .twentysix img {
+                margin-left: -690%;
+                margin-top: 450%;
+                width: 20px;
+                height: 20px;
+            }
+            .twentyseven img {
+                width: 49px;
+                height: 23px;
+                margin-left: 330px;
+                float: none;
+            }
+            .twentyeight img {
+                margin-top: -30px;
+                width: 3px;
+                height: 49px;
+            }
+            .twentynine {
+                margin-top: 0;
+            }
+            .twentynine img {
+                width: 40px;
+                height: 40px;
+                margin-top: 0px;
+            }
+            .thertyone img {
+                width: 120px;
+                height: 60px;
+                margin-top: -3%;}
+            .thertytwo img {
+                margin-top: -150px;
+                width: 11px;
+                height: 31px;
+            }
+            .twentyfive img {
+                width: 43px;
+                height: 43px;
+                margin-top: 0%;
+                margin-left: 10%;
+                animation-name: rotation;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;}
+@keyframes rotation {
+    0% {
+        transform:rotate(0deg);
+    }
+    100% {
+        transform:rotate(360deg);
+    }
+}
+.color:hover {
+  background:#ffffff;
+}
+
+
+
+            .thertythree img {
+                width: 120px;
+                height: 120px;
+                margin-top: -25%;
+                margin-left: 55%;
+                animation-name: rotation;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;}
+  @keyframes rotation {
+    0% {
+        transform:rotate(-360deg);
+    }
+    100% {
+        transform:rotate(-90deg);
+    }
+
+
+            }}
+                .eight img {
+                    width: 26px;
+                    height: 25px;}
+            .sun img {
+                width: 60px;
+                height: 60px;
+                margin-top: 140%;
+                margin-left: 10%;
+                animation-name: stretch;
+      animation-duration: 1.7s;
+      animation-timing-function: ease-out;
+      animation-delay: 0;
+      animation-direction: alternate;
+      animation-iteration-count: infinite;
+      animation-fill-mode: none;
+      animation-play-state: running;
+    }
+
+    @keyframes stretch {
+      0% {
+        transform: scale(.3);
+        background-color: rgba(255, 255, 255, 0);
+        border-radius: 90%;
+      }
+      50% {
+        background-color: radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, rgba(255, 255, 255, 0);
+      }
+      100% {
+        transform: scale(1.5);
+        background-color: radial-gradient(50% 50% at 50% 50%, #FFFFFF 0%, rgba(255, 255, 255, 0);
+      }
+
+        }
